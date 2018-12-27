@@ -7,7 +7,7 @@ Given two arrays, write a function to compute their intersection.
 Output: [2,2]
 
 **Example 2:**
-Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]  
+>Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]  
 Output: [4,9]
 
 **Note:**
